@@ -1,0 +1,135 @@
+body{
+    margin: 0px;
+}
+.mainDiv{
+    width:auto;
+    height: 700;
+
+}
+.mainDiv img{
+    width: 100%;
+}
+.text{
+
+    overflow: hidden;
+    margin-top: -360px;
+}
+
+.text  h1{
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 12px;
+    margin: 10px;
+    color: #353535;
+    font-family: 'Varela Round'
+}
+p{
+    color: #8c9398;
+    word-spacing: 1px;
+    line-height: 25px;
+    font-size: 14px;
+    padding-left: 500px;
+}
+.text input{
+
+    background: rgba(61, 201, 179, 1);
+    padding: 20px 40px;
+    margin-left: 520px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+
+
+
+
+.textSection{
+
+    background-color:#f3f5f8;
+    padding-top: 5px;
+    height: 300px;
+    margin-top: 186px;
+    text-align: center
+}
+.textSection h1{
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #353535;
+    letter-spacing: 1px;
+    padding: 90px 0 30px;
+    background: url(../photo/download.png) no-repeat center bottom;
+}
+a{
+    color: #353535;
+    text-decoration: none;
+}
+
+pre{
+    font-size: 14px;
+
+}
+.bigSection{
+    background-color:white;
+    padding: 90px 0 100px;
+    width: 100%;
+    height: 65px;
+
+}
+.bigSection h1{
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #353535;
+    letter-spacing: 1px;
+    background: url(../photo/download.png) no-repeat center bottom;
+    padding-bottom: 30px;
+    font-weight: bold;
+    margin: 10.050px;
+    text-align: center;
+}
+.bigSectionTitle{
+
+    width: 100%;
+    height: 800px;
+    background-color: white;
+    margin: auto;
+
+}
+.newItem{
+
+    width: 427px;
+    height: 430px;
+    background-color:white;
+    float: left;
+    margin:10.05px;
+}
+.icon{
+
+    width:175px;
+    height:175px;
+    background-color:white;
+    margin: auto;
+    text-align: center;
+    font-size: 55px;
+    text-align: center;
+    padding-top: 30px;
+    
+}
+i{
+    height: 120px;
+    width: 175px;
+    line-height: 175px;
+    max-width: 100%;
+    background: #3dc9b3;
+    border-radius: 50%;
+    -o-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    display: block;
+    color: #fff;
+    font-size: 55px;
+    text-align: center;
+    position: relative;
+    padding-top: 55px;
+}
